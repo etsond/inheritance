@@ -1,10 +1,10 @@
 # Inheritance
 This C program simulates the inheritance of blood types in a family tree. It creates a new family with a user-defined number of generations and assigns each individual random blood type alleles based on those of their parents.
 
-Requirements
+## Requirements
 This program requires a C compiler, such as GCC, to build and run.
 
-Usage
+## Usage
 To run the program, simply compile and execute the inheritance.c file. The program will prompt the user to enter the number of generations for the family tree. It will then generate a family tree and print the blood types of each individual.
 
 ```ruby
